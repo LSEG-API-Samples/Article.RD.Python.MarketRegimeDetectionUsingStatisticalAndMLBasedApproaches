@@ -26,4 +26,4 @@ To execute any workbook, refer to the following:
 
   
 ## <a id="authors"></a>Authors
-* **Haykaz Aramyan, Marios Skevofylakas, Jason Ramchandani**
+* **Haykaz Aramyan, Jason Ramchandani, Marios Skevofylakas**
