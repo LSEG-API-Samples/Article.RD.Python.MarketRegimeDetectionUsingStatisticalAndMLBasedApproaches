@@ -1,4 +1,4 @@
-# Article.RD.Python.MarketRegimeDetectionUsingStatisticalAndMLBasedApproaches
+# Market regime detection using Statistical and ML based approaches
 
 ## <a id="overview"></a>Overview
 Financial markets microstructure behaviour can vary over time, being affected by a wide range of external and internal factors. This can result in different market regimes or periods of continuous similar market conditions. Financial market participants aim to detect these market regimes and their shifts to handle potential risks and make better-informed investment decisions. 
